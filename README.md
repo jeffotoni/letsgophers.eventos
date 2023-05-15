@@ -1,8 +1,26 @@
 # Evento de Programação GO
 
-![Foto do Evento](/2023/documentos/logo/gopher-evento.png)
+![Foto do Evento](/2023/documentos/imagens/gopher-evento.png)
 
 Este repositório contém os documentos relacionados ao Evento de Programação GO. O evento é voltado para programadores interessados em aprender mais sobre a linguagem de programação GO, suas aplicações e boas práticas.
+
+## Evento de 2023
+
+A pasta "2023" contém os materiais do evento realizado em 2023. Aqui você encontrará as apresentações em PDF, documentos importantes como as regras do evento, o cronograma das atividades e guias de instalação. Também há uma pasta de exemplos de código e recursos adicionais, como uma lista de livros recomendados e links úteis.
+
+## Assista ao Evento
+
+Para assistir às gravações do evento de 2023, acesse nosso canal no YouTube: [link do YouTube](https://www.youtube.com/@jeffotoni).
+
+Participe dos próximos eventos, aprimore seus conhecimentos em programação GO e aproveite os recursos disponibilizados neste repositório! Em caso de dúvidas ou sugestões, entre em contato com a equipe organizadora.
+
+![Thumbnail do Youtube](/2023/documentos/imagens/thumbnail.png)
+
+## Site do Evento
+
+Visite nosso site em [Let's Gophers](https://www.letsgophers.com/) para obter mais informações sobre o evento, conferir os detalhes das edições anteriores, ver os próximos eventos agendados e acessar recursos exclusivos. Fique por dentro das novidades, participe da comunidade e explore tudo que o Let's Gophers tem a oferecer!
+
+![Print do Site do Evento](/2023/documentos/imagens/site.png)
 
 ## Estrutura do Repositório
 
@@ -49,7 +67,7 @@ evento-de-programação-go
 │   │    ├── /12_cavazza
 │   │    │   └── apresentação12.pdf
 │   │    │
-│   │     ├── /13_rodrigo_brito
+│   │    ├── /13_rodrigo_brito
 │   │    │   └── apresentação13.pdf
 │   │    │
 │   │    ├── /14_jeffotoni
@@ -73,20 +91,6 @@ evento-de-programação-go
 │── LICENSE
 └── README.md
 ```
-
-## Evento de 2023
-
-A pasta "2023" contém os materiais do evento realizado em 2023. Aqui você encontrará as apresentações em PDF, documentos importantes como as regras do evento, o cronograma das atividades e guias de instalação. Também há uma pasta de exemplos de código e recursos adicionais, como uma lista de livros recomendados e links úteis.
-
-## Assista ao Evento
-
-Para assistir às gravações do evento de 2023, acesse nosso canal no YouTube: [link do YouTube](https://www.youtube.com/@jeffotoni).
-
-Participe dos próximos eventos, aprimore seus conhecimentos em programação GO e aproveite os recursos disponibilizados neste repositório! Em caso de dúvidas ou sugestões, entre em contato com a equipe organizadora.
-
-## Site publicado
-
-Visite nosso site em [Let's Gophers](https://www.letsgophers.com/) para obter mais informações sobre o evento, conferir os detalhes das edições anteriores, ver os próximos eventos agendados e acessar recursos exclusivos. Fique por dentro das novidades, participe da comunidade e explore tudo que o Let's Gophers tem a oferecer!
 
 
 
