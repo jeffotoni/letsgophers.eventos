@@ -4,11 +4,11 @@
 
 Este repositório contém os documentos relacionados ao Evento de Programação GO. O evento é voltado para programadores interessados em aprender mais sobre a linguagem de programação GO, suas aplicações e boas práticas.
 
-## Evento de 2023
+## Evento de 2023 🎉📅🌟
 
 A pasta "2023" contém os materiais do evento realizado em 2023. Aqui você encontrará as apresentações em PDF, documentos importantes como as regras do evento, o cronograma das atividades e guias de instalação. Também há uma pasta de exemplos de código e recursos adicionais, como uma lista de livros recomendados e links úteis.
 
-## Assista ao Evento
+## Assista ao Evento 📺👀🎥
 
 Para assistir às gravações do evento de 2023, acesse nosso canal no YouTube: [link do YouTube](https://www.youtube.com/@jeffotoni).
 
@@ -16,13 +16,22 @@ Participe dos próximos eventos, aprimore seus conhecimentos em programação GO
 
 ![Thumbnail do Youtube](/2023/documentos/imagens/thumbnail.png)
 
-## Site do Evento
+## Site do Evento 🌐💻📱
 
 Visite nosso site em [Let's Gophers](https://www.letsgophers.com/) para obter mais informações sobre o evento, conferir os detalhes das edições anteriores, ver os próximos eventos agendados e acessar recursos exclusivos. Fique por dentro das novidades, participe da comunidade e explore tudo que o Let's Gophers tem a oferecer!
 
 ![Print do Site do Evento](/2023/documentos/imagens/site.png)
 
-## Estrutura do Repositório
+## Drive de Fotos 📸🌄🖼️
+
+Acesse o nosso drive de fotos para conferir todas as imagens incríveis do evento de 2023. Lá você encontrará momentos especiais, palestras inspiradoras e muita diversão.
+Fique à vontade para explorar e baixar as fotos que mais gostar. Compartilhe esses momentos com seus amigos e colegas.
+
+[Drive de Fotos]()
+
+![Foto01](/2023/documentos/imagens/foto01.jpeg)![Foto02](/2023/documentos/imagens/foto02.jpeg)![Foto03](/2023/documentos/imagens/foto03.jpeg)
+
+## Estrutura do Repositório 🏗️📂🔍
 
 ```go
 evento-de-programação-go
