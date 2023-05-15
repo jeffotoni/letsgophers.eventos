@@ -76,7 +76,7 @@ evento-de-programação-go
 │   │── /documentos
 │   │    │
 │   │    ├── /imagens
-│   │    │   
+│   │    │   └── foto01.jpeg
 │   │    │
 │   │    └── /patrocinadores
 │   │
