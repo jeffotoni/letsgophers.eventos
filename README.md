@@ -1,6 +1,6 @@
 # Evento de Programação GO
 
-![Foto do Evento](/2023/documentos/logo/gopher-evento.png){:width="200px" height="150px"}
+![Foto do Evento](/2023/documentos/logo/gopher-evento.png)
 
 Este repositório contém os documentos relacionados ao Evento de Programação GO. O evento é voltado para programadores interessados em aprender mais sobre a linguagem de programação GO, suas aplicações e boas práticas.
 
@@ -11,58 +11,65 @@ evento-de-programação-go
 │
 │── /2023
 │   │
-│   └── /apresentacoes
-│        │
-│        ├── /01_jeff_otoni
-│        │   └── apresentação1.pdf
-│        │
-│        ├── /02_cesar
-│        │   └── apresentação2.pdf
-│        │
-│        ├── /03_eucimar
-│        │   └── apresentação3.pdf
-│        │
-│        ├── /04_gustavo_fagundes
-│        │   └── apresentação4.pdf
-│        │
-│        ├── /05_diego
-│        │   └── apresentação5.pdf
-│        │
-│        ├── /06_matheus
-│        │   └── apresentação6.pdf
-│        │
-│        ├── /07_andre_farina
-│        │   └── apresentação7.pdf
-│        │
-│        ├── /08_jeffotoni
-│        │   └── apresentação8.pdf
-│        │
-│        ├── /09_kenisson
-│        │   └── apresentação9.pdf
-│        │
-│        ├── /10_cassio_botaro
-│        │   └── apresentação10.pdf
-│        │
-│        ├── /11_andre_farina
-│        │   └── apresentação11.pdf
-│        │
-│        ├── /12_cavazza
-│        │   └── apresentação12.pdf
-│        │
-│        ├── /13_rodrigo_brito
-│        │   └── apresentação13.pdf
-│        │
-│        ├── /14_jeffotoni
-│        │   └── apresentação14.pdf
-│        │
-│        ├── /15_rafael_rubbioli
-│        │   └── apresentação15.pdf
-│        │
-│        ├── /16_vinicius_garcia
-│        │   └── apresentação16.pdf
-│        │
-│        └── /17_cesar
-│            └── apresentação17.pdf
+│   │── /apresentacoes
+│   │    │
+│   │    ├── /01_jeff_otoni
+│   │    │   └── apresentação1.pdf
+│   │    │
+│   │    ├── /02_cesar
+│   │    │   └── apresentação2.pdf
+│   │    │
+│   │    ├── /03_eucimar
+│   │    │   └── apresentação3.pdf
+│   │    │
+│   │    ├── /04_gustavo_fagundes
+│   │    │   └── apresentação4.pdf
+│   │    │
+│   │    ├── /05_diego
+│   │    │   └── apresentação5.pdf
+│   │    │
+│   │    ├── /06_matheus
+│   │    │   └── apresentação6.pdf
+│   │    │
+│   │    ├── /07_andre_farina
+│   │    │   └── apresentação7.pdf
+│   │    │
+│   │    ├── /08_jeffotoni
+│   │    │   └── apresentação8.pdf
+│   │    │
+│   │    ├── /09_kenisson
+│   │    │   └── apresentação9.pdf
+│   │    │
+│   │    ├── /10_cassio_botaro
+│   │    │   └── apresentação10.pdf
+│   │    │
+│   │    ├── /11_andre_farina
+│   │    │   └── apresentação11.pdf
+│   │    │
+│   │    ├── /12_cavazza
+│   │    │   └── apresentação12.pdf
+│   │    │
+│   │     ├── /13_rodrigo_brito
+│   │    │   └── apresentação13.pdf
+│   │    │
+│   │    ├── /14_jeffotoni
+│   │    │   └── apresentação14.pdf
+│   │    │
+│   │    ├── /15_rafael_rubbioli
+│   │    │   └── apresentação15.pdf
+│   │    │
+│   │    ├── /16_vinicius_garcia
+│   │    │   └── apresentação16.pdf
+│   │    │
+│   │    └── /17_cesar
+│   │        └── apresentação17.pdf
+│   │
+│   │── /documentos
+│   │
+│   │── /exemplos_de_codigo
+│   │
+│   └── /recurso_adicionais
+│   
 │── LICENSE
 └── README.md
 ```
