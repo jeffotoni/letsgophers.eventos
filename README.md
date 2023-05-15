@@ -8,22 +8,27 @@ O repositório está organizado da seguinte maneira:
 
 ```go
 ├── /Apresentações
-│ ├── Apresentação1.pdf
-│ ├── Apresentação2.pdf
-│ └── ...
+│   ├── /01 - Jeff Otoni
+│   │   ├── Apresentação3.pdf
+│   ├── /02 - Cesar
+│   │   ├── Apresentação4.pdf
+│   ├── /Subpasta
+│   │   └── ...
+│   └── ...
 ├── /Documentos
-│ ├── Regras_do_Evento.pdf
-│ ├── Cronograma.pdf
-│ ├── Guias_de_Instalação.md
-│ └── ...
+│   ├── Regras_do_Evento.pdf
+│   ├── Cronograma.pdf
+│   ├── Guias_de_Instalação.md
+│   └── ...
 ├── /Exemplos_de_Código
-│ ├── Exemplo1.go
-│ ├── Exemplo2.go
-│ └── ...
+│   ├── Exemplo1.go
+│   ├── Exemplo2.go
+│   └── ...
 └── /Recursos_Adicionais
-├── Livros_Recomendados.md
-├── Links_Uteis.md
-└── ...
+    ├── Livros_Recomendados.md
+    ├── Links_Uteis.md
+    └── ...
+
 ```
 
 ## Descrição das Pastas
