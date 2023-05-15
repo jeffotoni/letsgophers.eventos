@@ -1,6 +1,6 @@
 # Evento de Programação GO
 
-![Foto do Evento](foto_evento.jpg)
+![Foto do Evento](/2023/documentos/logo/gopher-evento.png)
 
 Este repositório contém os documentos relacionados ao Evento de Programação GO. O evento é voltado para programadores interessados em aprender mais sobre a linguagem de programação GO, suas aplicações e boas práticas.
 
@@ -19,19 +19,20 @@ evento-de-programação-go
 │ │ │ ├── apresentação3.pdf
 │ │ │ └── ...
 │ │ └── ...
-│ ├── /Documentos
+│ ├── /documentos
 │ │ ├── Regras_do_Evento.pdf
 │ │ ├── Cronograma.pdf
 │ │ ├── Guias_de_Instalação.md
 │ │ └── ...
-│ ├── /Exemplos_de_Código
-│ │ ├── Exemplo1.go
-│ │ ├── Exemplo2.go
+│ ├── /exemplos_de_codigo
+│ │ ├── exemplo1.go
+│ │ ├── exemplo2.go
 │ │ └── ...
-│ └── /Recursos_Adicionais
-│ ├── Livros_Recomendados.md
-│ ├── Links_Uteis.md
+│ └── /recursos_adicionais
+│ ├── livros_recomendados.md
+│ ├── links_uteis.md
 │ └── ...
+│── LICENSE
 └── README.md
 ```
 
@@ -43,6 +44,6 @@ A pasta "2023" contém os materiais do evento realizado em 2023. Aqui você enco
 
 Para assistir às gravações do evento de 2023, acesse nosso canal no YouTube: [link do YouTube](https://www.youtube.com/@jeffotoni).
 
-Participe do evento, aprimore seus conhecimentos em programação GO e aproveite os recursos disponibilizados neste repositório! Em caso de dúvidas ou sugestões, entre em contato com a equipe organizadora. 
+Participe do evento, aprimore seus conhecimentos em programação GO e aproveite os recursos disponibilizados neste repositório! Em caso de dúvidas ou sugestões, entre em contato com a equipe organizadora.
 
 
