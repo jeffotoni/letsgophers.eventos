@@ -40,62 +40,51 @@ evento-de-programação-go
 │   │
 │   │── /apresentacoes
 │   │    │
-│   │    ├── /01_jeff_otoni
+│   │    ├── /01-jeff_otoni
 │   │    │   └── apresentação1.pdf
 │   │    │
-│   │    ├── /02_cesar
+│   │    ├── /02-cesar
 │   │    │   └── apresentação2.pdf
 │   │    │
-│   │    ├── /03_eucimar
+│   │    ├── /03-eucimar
 │   │    │   └── apresentação3.pdf
 │   │    │
-│   │    ├── /04_gustavo_fagundes
-│   │    │   └── apresentação4.pdf
-│   │    │
-│   │    ├── /05_diego
+│   │    ├── /04-diego
 │   │    │   └── apresentação5.pdf
 │   │    │
-│   │    ├── /06_matheus
+│   │    ├── /05-matheus
 │   │    │   └── apresentação6.pdf
 │   │    │
-│   │    ├── /07_andre_farina
+│   │    ├── /06-andre-farina
 │   │    │   └── apresentação7.pdf
 │   │    │
-│   │    ├── /08_jeffotoni
-│   │    │   └── apresentação8.pdf
-│   │    │
-│   │    ├── /09_kenisson
-│   │    │   └── apresentação9.pdf
-│   │    │
-│   │    ├── /10_cassio_botaro
-│   │    │   └── apresentação10.pdf
-│   │    │
-│   │    ├── /11_andre_farina
-│   │    │   └── apresentação11.pdf
-│   │    │
-│   │    ├── /12_cavazza
+│   │    ├── /07-cavazza
 │   │    │   └── apresentação12.pdf
 │   │    │
-│   │    ├── /13_rodrigo_brito
+│   │    ├── /08-rodrigo-brito
 │   │    │   └── apresentação13.pdf
 │   │    │
-│   │    ├── /14_jeffotoni
-│   │    │   └── apresentação14.pdf
-│   │    │
-│   │    ├── /15_rafael_rubbioli
+│   │    ├── /09-rafael-rubbioli
 │   │    │   └── apresentação15.pdf
 │   │    │
-│   │    ├── /16_vinicius_garcia
+│   │    ├── /10-vinicius-garcia
 │   │    │   └── apresentação16.pdf
 │   │    │
-│   │    └── /17_cesar
+│   │    └── /11-cesar
 │   │        └── apresentação17.pdf
 │   │
 │   │── /documentos
+│   │    │
+│   │    ├── /imagens
+│   │    │   
+│   │    │
+│   │    └── /patrocinadores
 │   │
-│   │── /exemplos_de_codigo
+│   │── /exemplos-de-codigo
 │   │
-│   └── /recurso_adicionais
+│   │── /hands-on
+│   │
+│   └── /recurso-adicionais
 │   
 │── LICENSE
 └── README.md
