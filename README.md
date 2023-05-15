@@ -29,7 +29,7 @@ Fique à vontade para explorar e baixar as fotos que mais gostar. Compartilhe es
 
 [Drive de Fotos]()
 
-![Foto01](/2023/documentos/imagens/foto01.jpeg)![Foto02](/2023/documentos/imagens/foto02.jpeg)![Foto03](/2023/documentos/imagens/foto03.jpeg)
+[Foto01](/2023/documentos/imagens/foto01.jpeg)
 
 ## Estrutura do Repositório 🏗️📂🔍
 
