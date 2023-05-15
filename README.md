@@ -1,6 +1,6 @@
 # Evento de Programação GO
 
-![Foto do Evento](/2023/documentos/logo/gopher-evento.png)
+![Foto do Evento](/2023/documentos/logo/gopher-evento.png){:width="200px" height="150px"}
 
 Este repositório contém os documentos relacionados ao Evento de Programação GO. O evento é voltado para programadores interessados em aprender mais sobre a linguagem de programação GO, suas aplicações e boas práticas.
 
@@ -9,29 +9,60 @@ Este repositório contém os documentos relacionados ao Evento de Programação 
 ```go
 evento-de-programação-go
 │
-├── /2023
-│ ├── /apresentações
-│ │ ├── /subpasta
-│ │ │ ├── apresentação1.pdf
-│ │ ├── /subpasta
-│ │ │ ├── apresentação2.pdf
-│ │ ├── /subpasta
-│ │ │ ├── apresentação3.pdf
-│ │ │ └── ...
-│ │ └── ...
-│ ├── /documentos
-│ │ ├── Regras_do_Evento.pdf
-│ │ ├── Cronograma.pdf
-│ │ ├── Guias_de_Instalação.md
-│ │ └── ...
-│ ├── /exemplos_de_codigo
-│ │ ├── exemplo1.go
-│ │ ├── exemplo2.go
-│ │ └── ...
-│ └── /recursos_adicionais
-│ ├── livros_recomendados.md
-│ ├── links_uteis.md
-│ └── ...
+│── /2023
+│   │
+│   └── /apresentacoes
+│        │
+│        ├── /01_jeff_otoni
+│        │   └── apresentação1.pdf
+│        │
+│        ├── /02_cesar
+│        │   └── apresentação2.pdf
+│        │
+│        ├── /03_eucimar
+│        │   └── apresentação3.pdf
+│        │
+│        ├── /04_gustavo_fagundes
+│        │   └── apresentação4.pdf
+│        │
+│        ├── /05_diego
+│        │   └── apresentação5.pdf
+│        │
+│        ├── /06_matheus
+│        │   └── apresentação6.pdf
+│        │
+│        ├── /07_andre_farina
+│        │   └── apresentação7.pdf
+│        │
+│        ├── /08_jeffotoni
+│        │   └── apresentação8.pdf
+│        │
+│        ├── /09_kenisson
+│        │   └── apresentação9.pdf
+│        │
+│        ├── /10_cassio_botaro
+│        │   └── apresentação10.pdf
+│        │
+│        ├── /11_andre_farina
+│        │   └── apresentação11.pdf
+│        │
+│        ├── /12_cavazza
+│        │   └── apresentação12.pdf
+│        │
+│        ├── /13_rodrigo_brito
+│        │   └── apresentação13.pdf
+│        │
+│        ├── /14_jeffotoni
+│        │   └── apresentação14.pdf
+│        │
+│        ├── /15_rafael_rubbioli
+│        │   └── apresentação15.pdf
+│        │
+│        ├── /16_vinicius_garcia
+│        │   └── apresentação16.pdf
+│        │
+│        └── /17_cesar
+│            └── apresentação17.pdf
 │── LICENSE
 └── README.md
 ```
@@ -44,6 +75,12 @@ A pasta "2023" contém os materiais do evento realizado em 2023. Aqui você enco
 
 Para assistir às gravações do evento de 2023, acesse nosso canal no YouTube: [link do YouTube](https://www.youtube.com/@jeffotoni).
 
-Participe do evento, aprimore seus conhecimentos em programação GO e aproveite os recursos disponibilizados neste repositório! Em caso de dúvidas ou sugestões, entre em contato com a equipe organizadora.
+Participe dos próximos eventos, aprimore seus conhecimentos em programação GO e aproveite os recursos disponibilizados neste repositório! Em caso de dúvidas ou sugestões, entre em contato com a equipe organizadora.
+
+## Site publicado
+
+Visite nosso site em [Let's Gophers](https://www.letsgophers.com/) para obter mais informações sobre o evento, conferir os detalhes das edições anteriores, ver os próximos eventos agendados e acessar recursos exclusivos. Fique por dentro das novidades, participe da comunidade e explore tudo que o Let's Gophers tem a oferecer!
+
+
 
 
