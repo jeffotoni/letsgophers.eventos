@@ -10,7 +10,7 @@ A pasta "2023" contém os materiais do evento realizado em 2023. Aqui você enco
 
 ## Assista ao Evento 📺👀🎥
 
-Para assistir às gravações do evento de 2023, acesse nosso canal no YouTube: [link do YouTube](https://www.youtube.com/@jeffotoni).
+Para assistir às gravações do evento de 2023, acesse nosso canal no YouTube: [link do YouTube](https://www.youtube.com/watch?v=RmhONEo-D-Y).
 
 Participe dos próximos eventos, aprimore seus conhecimentos em programação GO e aproveite os recursos disponibilizados neste repositório! Em caso de dúvidas ou sugestões, entre em contato com a equipe organizadora.
 
