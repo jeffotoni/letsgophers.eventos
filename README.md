@@ -1,6 +1,6 @@
 # Evento de Programação GO
 
-![Foto do Evento](/2023/documentos/imagens/gopher-evento.png)
+![Foto do Evento](/evento-go-bh-2023/documentos/imagens/gopher-evento.png)
 
 Este repositório contém os documentos relacionados ao Evento de Programação GO. O evento é voltado para programadores interessados em aprender mais sobre a linguagem de programação GO, suas aplicações e boas práticas.
 
@@ -14,13 +14,13 @@ Para assistir às gravações do evento de 2023, acesse nosso canal no YouTube: 
 
 Participe dos próximos eventos, aprimore seus conhecimentos em programação GO e aproveite os recursos disponibilizados neste repositório! Em caso de dúvidas ou sugestões, entre em contato com a equipe organizadora.
 
-[![Thumbnail do Youtube](/2023/documentos/imagens/thumbnail.png)](https://www.youtube.com/watch?v=RmhONEo-D-Y)
+[![Thumbnail do Youtube](/evento-go-bh-2023/documentos/imagens/thumbnail.png)](https://www.youtube.com/watch?v=RmhONEo-D-Y)
 
 ## Site do Evento 🌐💻📱
 
 Visite nosso site em [Let's Gophers](https://www.letsgophers.com/) para obter mais informações sobre o evento, conferir os detalhes das edições anteriores, ver os próximos eventos agendados e acessar recursos exclusivos. Fique por dentro das novidades, participe da comunidade e explore tudo que o Let's Gophers tem a oferecer!
 
-[![Print do Site do Evento](/2023/documentos/imagens/site.png)](https://www.letsgophers.com/)
+[![Print do Site do Evento](/evento-go-bh-2023/documentos/imagens/site.png)](https://www.letsgophers.com/)
 
 ## Drive de Fotos 📸🌄🖼️
 
@@ -29,14 +29,14 @@ Fique à vontade para explorar e baixar as fotos que mais gostar. Compartilhe es
 
 [Drive de Fotos](https://photos.app.goo.gl/AQjnKvdmcNu79dSD6)
 
-[![Foto01](/2023/documentos/imagens/foto01.jpeg)](https://photos.app.goo.gl/AQjnKvdmcNu79dSD6)
+[![Foto01](/evento-go-bh-2023/documentos/imagens/foto01.jpeg)](https://photos.app.goo.gl/AQjnKvdmcNu79dSD6)
 
 ## Estrutura do Repositório 🏗️📂🔍
 
 ```go
 evento-de-programação-go
 │
-│── /2023
+│── /evento-go-bh-2023
 │   │
 │   │── /apresentacoes
 │   │    │
