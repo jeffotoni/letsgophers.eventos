@@ -76,15 +76,23 @@ evento-de-programação-go
 │   │── /documentos
 │   │    │
 │   │    ├── /imagens
-│   │    │   └── foto01.jpeg
+│   │    │   │── foto01.jpeg
+│   │    │   │── gopher-evento.png
+│   │    │   │── site.png
+│   │    │   └── thumbnail.png
 │   │    │
 │   │    └── /patrocinadores
+│   │        │── logo-brz.png
+│   │        │── logo-inter.png
+│   │        │── logo-orbi.png
+│   │        └── logo-s3wf.png
 │   │
-│   │── /exemplos-de-codigo
-│   │
-│   │── /hands-on
-│   │
-│   └── /recurso-adicionais
+│   └── /hands-on
+│        ├── /01-gustavo-fagundes-instalacao-e-configuracao-go
+│        │   └── Instalação e configuração Go.pptx
+│        │ 
+│        └── /02-cassio-botaro-estrutura-de-dados-em-go
+│            └── Estrutura de dados em Go.pptx
 │   
 │── LICENSE
 └── README.md
