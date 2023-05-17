@@ -14,22 +14,22 @@ Para assistir às gravações do evento de 2023, acesse nosso canal no YouTube: 
 
 Participe dos próximos eventos, aprimore seus conhecimentos em programação GO e aproveite os recursos disponibilizados neste repositório! Em caso de dúvidas ou sugestões, entre em contato com a equipe organizadora.
 
-![Thumbnail do Youtube](/2023/documentos/imagens/thumbnail.png)
+[![Thumbnail do Youtube](/2023/documentos/imagens/thumbnail.png)](https://www.youtube.com/watch?v=RmhONEo-D-Y)
 
 ## Site do Evento 🌐💻📱
 
 Visite nosso site em [Let's Gophers](https://www.letsgophers.com/) para obter mais informações sobre o evento, conferir os detalhes das edições anteriores, ver os próximos eventos agendados e acessar recursos exclusivos. Fique por dentro das novidades, participe da comunidade e explore tudo que o Let's Gophers tem a oferecer!
 
-![Print do Site do Evento](/2023/documentos/imagens/site.png)
+[![Print do Site do Evento](/2023/documentos/imagens/site.png)](https://www.letsgophers.com/)
 
 ## Drive de Fotos 📸🌄🖼️
 
 Acesse o nosso drive de fotos para conferir todas as imagens incríveis do evento de 2023. Lá você encontrará momentos especiais, palestras inspiradoras e muita diversão.
 Fique à vontade para explorar e baixar as fotos que mais gostar. Compartilhe esses momentos com seus amigos e colegas.
 
-[Drive de Fotos]()
+[Drive de Fotos](https://photos.app.goo.gl/AQjnKvdmcNu79dSD6)
 
-![Foto01](/2023/documentos/imagens/foto01.jpeg)
+[![Foto01](/2023/documentos/imagens/foto01.jpeg)](https://photos.app.goo.gl/AQjnKvdmcNu79dSD6)
 
 ## Estrutura do Repositório 🏗️📂🔍
 
